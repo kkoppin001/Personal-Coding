@@ -18,3 +18,4 @@ Folders include:
     - A Semi Working Linked List (You can add a value but that is it) (Missing README)
     - A 4 digit calculator (Missing README)
     - A WIP FIB Recursion
+    - Factorial
