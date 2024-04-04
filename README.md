@@ -15,6 +15,6 @@ Folders include:
     - Word Game (Complete Code)
 
 - **ASSEMBLY (LC-3)**
-    - A Semi Working Linked List (You can add a value but that is it)
-    - A 4 digit calculator
+    - A Semi Working Linked List (You can add a value but that is it) (Missing README)
+    - A 4 digit calculator (Missing README)
     - A WIP FIB Recursion
