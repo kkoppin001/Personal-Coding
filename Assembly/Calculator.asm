@@ -27,7 +27,6 @@ CONTINUE_PROGRAM
       AND R0, R0, #0
       ST R0, TEMPORARY NUMBER
 
-
       ; prompt for operator
       LEA R0, PROMPT3
       PUTS 
@@ -49,9 +48,6 @@ CONTINUE_PROGRAM
       LDR R3, R5, #2
       ADD R4, R0, R3
       BRz MULTIPLY
-
-
-
 
       LDR R3, R5, #3
       ADD R4, R0, R3
@@ -92,12 +88,6 @@ CODES_ARRAY    .FILL     #-43  ; '+'
               .FILL     #-42  ; '*'
               .FILL     #-47  ; '/'
 
-;--------- Subroutines Start ---------;
-; R1 <- X
-; R2 <- Y
-; R6 <- result of X (operation) Y
-; Use R3, R4, & R5 for extra stuff
-; ------------------------------ ;
 READ_INPUT
   ST R7, saveR7
   LEA R3, inputArray      ; R3 <- pointer to inputArray
@@ -186,9 +176,10 @@ NUMBER_TO_ASCII_CONVERSION ; prints number in R1
   ST R0, outputSize
   LD R7, saveR7
   RET
-
 plus30        .FILL     x30
-
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; LOOPS
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ADDITION
   ADD R6, R2, R1
   JSR OpComplete
