@@ -16,5 +16,11 @@ Folders include:
 
 - **ASSEMBLY (LC-3)**
     - A Semi Working Linked List (You can add a value but that is it) (Missing README)
-    - A WIP FIB Recursion
-    - Factorial
+    - A FIB Recursion code (Missing README)
+    - A Factorial program (Missing README)
+    - A "compare to the number 5" program
+ 
+- **PYTHON**
+
+- **BASH SCRIPTING**
+  
