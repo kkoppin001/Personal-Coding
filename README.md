@@ -23,4 +23,6 @@ Folders include:
 - **PYTHON**
 
 - **BASH SCRIPTING**
+
+- **C++**
   
