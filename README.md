@@ -25,6 +25,7 @@ Folders include:
 
 - **BASH SCRIPTING**
   - File Name Changing Script
+  - Salt & Hash Unique Values (Missing README)
 
 - **C++**
   
