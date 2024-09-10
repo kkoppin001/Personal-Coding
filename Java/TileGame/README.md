@@ -27,7 +27,7 @@ other valid numbers. The code will then score the input and your goal is to get 
 can. If you type in and the two numbers on the inside are matching, then the score will be doubled. If they are not matching, the program will choose the highest scoring tile. The catch of this game is making it match the cirteria listed in the **Notes to Know** section.
 
 
-**Notes To Know**
+### Notes To Know
 
 - **If the user types too long of an input:**
     - The program will respond to too long of an input and say `Output: Invalid input. quitting…`
