@@ -6,7 +6,7 @@ This repository is for all coding projects that I *(Kalli Koppin)* have worked o
 Folders include: 
 
 - **JAVA**
-    - Basic Tile Game (Complete Code) (Missing README)
+    - Basic Tile Game (Complete Code)
     - Character Inventory Game (Complete Code) (Missing README)
     - Drone, Truck, Train Simulation (incomplete Code) (Missing README)
     - Genetic Algorithm (incomplete Code) (Missing README)
