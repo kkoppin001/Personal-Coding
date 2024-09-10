@@ -38,7 +38,7 @@ entered. Please enter words.*"
 
 **bye**: will terminate the program and then the game will end
 
-**Notes To Know**
+### Notes To Know
 
 **If a word was already used:** If the user types in a word that has already been used, the program will warn the user by saying "*Word is already used, please try again*" 
 and then prompt the user for a valid word or listed command.
