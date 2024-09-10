@@ -40,16 +40,20 @@ entered. Please enter words.*"
 
 ### Notes To Know
 
-**If a word was already used:** If the user types in a word that has already been used, the program will warn the user by saying "*Word is already used, please try again*" 
+- **If a word was already used:**
+    - If the user types in a word that has already been used, the program will warn the user by saying "*Word is already used, please try again*" 
 and then prompt the user for a valid word or listed command.
 
-**If a typed word does not contain 4 or more letters:** If the user types in a word that in less than four letters, the program will warn the user by saying "*Word must be 
+- **If a typed word does not contain 4 or more letters:**
+    - If the user types in a word that in less than four letters, the program will warn the user by saying "*Word must be 
 at least 4 letters, please try again*" and then prompt the user for a valid word or listed command.
 
-**If a typed word contains letters that were not listed in the output:** If the user types in a word that contains letters that were not listed in the output, the program 
+- **If a typed word contains letters that were not listed in the output:** 
+  - If the user types in a word that contains letters that were not listed in the output, the program 
 will warn the user by saying "*Word is using letters not listed in the given ones, please try again.*" and will then prompt the user for a valid word or listed command.
 
-**If a word is not listed in the *words.txt* file:**  If the user types in a word that is not listed in the file, the program will warn the user by saying "*Could not find 
+- **If a word is not listed in the *words.txt* file:**  
+  - If the user types in a word that is not listed in the file, the program will warn the user by saying "*Could not find 
 word, please try again*" and then prompt the user for a valid word or listed command.
 
 ## Lessons Learned 
