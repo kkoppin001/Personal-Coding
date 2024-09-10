@@ -1,5 +1,5 @@
 
-# Word Game Project  
+# Tile Game Project  
 
 ## Project Description  
 
