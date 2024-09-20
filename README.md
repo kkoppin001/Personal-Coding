@@ -26,6 +26,7 @@ Folders include:
 - **BASH SCRIPTING**
   - File Name Changing Script
   - Salt & Hash Unique Values (Missing README)
+  - Hash Coin Miner (Missing README)
 
 - **C++**
-  
+  - Dice Roller (Missing README.md)  
