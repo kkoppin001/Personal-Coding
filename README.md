@@ -29,4 +29,6 @@ Folders include:
   - Hash Coin Miner (Missing README)
 
 - **C++**
-  - Dice Roller (Missing README.md)  
+  - Dice Roller (Missing README.md) 
+  - Character Combat Simulation (Missing README.md)
+ 
