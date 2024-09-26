@@ -27,6 +27,7 @@ Folders include:
   - File Name Changing Script
   - Salt & Hash Unique Values (Missing README)
   - Hash Coin Miner (Missing README)
+  - Roll the Dice (Missing README)
 
 - **C++**
   - Dice Roller (Missing README.md) 
