@@ -3,8 +3,6 @@ This repository is for all coding projects that I *(Kalli Koppin)* have worked o
 
 **NOTE:** WIP means Work In Progress in this repo. Either I will work on it later, or it may never get fixed
 
-![Greek Life](https://img.shields.io/badge/Greek%20Life-blue) ![Recruitment](https://img.shields.io/badge/Recruitment-green)
-
 
 Folders include: 
 
