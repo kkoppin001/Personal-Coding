@@ -3,6 +3,7 @@ This repository is for all coding projects that I *(Kalli Koppin)* have worked o
 
 **NOTE:** WIP means Work In Progress in this repo. Either I will work on it later, or it may never get fixed
 
+
 Folders include: 
 
 - **JAVA**
