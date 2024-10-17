@@ -33,4 +33,5 @@ Folders include:
 - **C++**
   - Dice Roller (Missing README.md) 
   - Character Combat Simulation (Missing README.md)
+  - Sequence (Missing README.md)
  
